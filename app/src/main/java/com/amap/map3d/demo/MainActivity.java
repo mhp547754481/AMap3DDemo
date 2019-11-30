@@ -150,7 +150,7 @@ public final class MainActivity extends ListActivity {
 	private static final DemoDetails[] demos = {
 //		            创建地图
 			new DemoDetails(R.string.map_create, R.string.blank, null),
-//			显示地图
+//			显示地图1111
 			new DemoDetails(R.string.basic_map, R.string.basic_description,
 					BasicMapActivity.class),
 //			显示地图
